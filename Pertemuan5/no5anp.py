@@ -1,0 +1,6 @@
+pendapatan=float(input("Masukan pendapatan: "))
+pengeluaran=float(input("Masukan pengeluaran: "))
+labaBersih=int(pendapatan-pengeluaran)
+print(f"Pendapatan\t: {int(pendapatan)}")
+print(f"Laba Bersih\t: {int(pengeluaran)}")
+print(f"Laba Bersih\t: {int(labaBersih)}")
