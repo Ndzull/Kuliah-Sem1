@@ -1,0 +1,10 @@
+print("python/java/c++".split("/"))
+print("Python"[-1*len("Python")-1:3])
+a=4
+b=6
+c="Municipality"
+d="pal"
+print(len(c))
+print(c.upper())
+print(c[a:b]+c[b+4:])
+print(c.find("d"))
