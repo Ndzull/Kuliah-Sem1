@@ -1,0 +1,5 @@
+fullname= input("enter a full name: ")
+i=fullname.rfind(" ")
+print(f"first name:{fullname[:i]}")
+print(f"last name:{fullname[i+1:]}")
+print(fullname.split())
