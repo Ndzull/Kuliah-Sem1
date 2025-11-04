@@ -17,5 +17,5 @@ print(f"Nama Panggilan: {namaPanggilan}")
 print(f"3 Digit Terakhir NRP: {digitNrp}")
 print(f"Tempat dan Tanggal Lahir: {tempatTanggalLahir}")
 print(f"Nomor Telepon: {noTelpForm}")
-print(f"E-mail Lengkap: {emailLengkap}") 
+print(f"E-mail Lengkap: {emailLengkap}")
 
